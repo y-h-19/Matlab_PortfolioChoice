@@ -1,10 +1,9 @@
-% Compare function compares results for both graphs when the 'Compare
-% Results' button is pressed
-
 % Yuna Hahn. Narayani G.
 % CS 112 Project: Portfolio Choice
 % Spring 2014
 
+% Compare function compares results for both graphs when the 'Compare
+% Results' button is pressed
 
 function handles = compare(handles)
 
