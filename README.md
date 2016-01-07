@@ -1,6 +1,6 @@
 # Matlab_PortfolioChoice
- Yuna Hahn and Narayani G.
- Spring 2014, CS 112 Project: Portfolio Choice
+# Yuna Hahn and Narayani G.
+# Spring 2014, CS 112 Project: Portfolio Choice
 
 Our project is a learning tool for understanding the finance concept
 related to Risk, Uncertainty and Portfolio Choice. Investors are usually 
