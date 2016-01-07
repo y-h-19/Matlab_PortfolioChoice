@@ -1,0 +1,17 @@
+User Information:
+
+This program is a learning tool for people to make portfolio choices when there are two risky assets with well defined probabilities in a portfolio. 
+
+The user can compare either two investors choices for a given portfolio or one investor's choice for two different portfolios. The user will first input the investor's risk preferences (risk-averse, risk-neutral, or risk-taker) and the degree of these preferences. Then choose the investor's initial wealth, the payoffs of the two risky assets, and their respective probabilities. 
+
+The output will give the user the certainty equivalent (CE), which is how much money will make the investor indifferent between holding the portfolio and receiving the certain payment (CE). The higher the aversion to risk, the lower the CE. Risk premium (pi) is compensation that an investor will accept  for the risk taken on by holding the asset instead of receiving CE. Ra is the coefficient of absolute risk aversion, which is a risk measure independent of initial wealth, and Rr is the coefficient of relative risk aversion, which is dependent on initial wealth. 
+
+The input fields in the program refer to the following:
+
+Yo: initial Wealth
+z1 & z2: payoffs of risky assets in Portfolio 1 
+z3 & z4: payoffs of risky assets in Portfolio  2
+p1 & p2 : probabilities of risky assets in Portfolio 1 
+p3 & p4: probabilities of risky assets in Portfolio  2
+
+ 
