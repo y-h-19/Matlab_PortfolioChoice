@@ -1,4 +1,4 @@
-% Narayani Gupta, Yuna Hahn
+% Narayani G., Yuna H.
 % CS 112 Project: Portfolio Choice
 % Spring 2014
 
