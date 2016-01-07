@@ -1,4 +1,4 @@
-% Narayani G., Yuna Hahn
+%  Yuna H., Narayani G.
 % CS 112 Project: Portfolio Choice, PlotFunction
 % Spring 2014
 
