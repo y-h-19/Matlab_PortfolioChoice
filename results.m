@@ -1,9 +1,9 @@
-% Results function displays results in text box for either graph when
-% the 'Plot Graph' button is pressed
-
 % Yuna Hahn, Narayani G.
 % CS 112 Project: Portfolio Choice
 % Spring 2014
+
+% Results function displays results in text box for either graph when
+% the 'Plot Graph' button is pressed
 
 function handles = results(handles, whichPlot)
 
