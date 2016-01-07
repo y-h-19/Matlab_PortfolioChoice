@@ -1,9 +1,10 @@
-% The undoFunction undoes the result values and the result text when the
-% 'Undo' button is pressed
 
 % Narayani G., Yuna Hahn
 % CS 112 Project: Portfolio Choice
 % Spring 2014
+
+% The undoFunction undoes the result values and the result text when the
+% 'Undo' button is pressed
 
 function handles = undoFunction(handles)
 
